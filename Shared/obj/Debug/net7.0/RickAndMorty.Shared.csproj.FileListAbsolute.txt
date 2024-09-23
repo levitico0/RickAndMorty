@@ -1,0 +1,22 @@
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Shared\bin\Debug\net7.0\RickAndMorty.Shared.deps.json
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Shared\bin\Debug\net7.0\RickAndMorty.Shared.dll
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Shared\bin\Debug\net7.0\RickAndMorty.Shared.pdb
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Shared\obj\Debug\net7.0\RickAndMorty.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Shared\obj\Debug\net7.0\RickAndMorty.Shared.AssemblyInfoInputs.cache
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Shared\obj\Debug\net7.0\RickAndMorty.Shared.AssemblyInfo.cs
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Shared\obj\Debug\net7.0\RickAndMorty.Shared.csproj.CoreCompileInputs.cache
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Shared\obj\Debug\net7.0\RickAndMorty.Shared.dll
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Shared\obj\Debug\net7.0\refint\RickAndMorty.Shared.dll
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Shared\obj\Debug\net7.0\RickAndMorty.Shared.pdb
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Shared\obj\Debug\net7.0\ref\RickAndMorty.Shared.dll
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Shared\bin\Debug\net7.0\RickAndMorty.Shared.deps.json
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Shared\bin\Debug\net7.0\RickAndMorty.Shared.dll
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Shared\bin\Debug\net7.0\RickAndMorty.Shared.pdb
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Shared\obj\Debug\net7.0\RickAndMorty.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Shared\obj\Debug\net7.0\RickAndMorty.Shared.AssemblyInfoInputs.cache
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Shared\obj\Debug\net7.0\RickAndMorty.Shared.AssemblyInfo.cs
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Shared\obj\Debug\net7.0\RickAndMorty.Shared.csproj.CoreCompileInputs.cache
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Shared\obj\Debug\net7.0\RickAndMorty.Shared.dll
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Shared\obj\Debug\net7.0\refint\RickAndMorty.Shared.dll
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Shared\obj\Debug\net7.0\RickAndMorty.Shared.pdb
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Shared\obj\Debug\net7.0\ref\RickAndMorty.Shared.dll

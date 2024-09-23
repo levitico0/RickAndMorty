@@ -1,0 +1,122 @@
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\obj\Debug\net7.0\RickAndMorty.Server.csproj.AssemblyReference.cache
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\obj\Debug\net7.0\RickAndMorty.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\obj\Debug\net7.0\RickAndMorty.Server.AssemblyInfoInputs.cache
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\obj\Debug\net7.0\RickAndMorty.Server.AssemblyInfo.cs
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\obj\Debug\net7.0\RickAndMorty.Server.csproj.CoreCompileInputs.cache
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\obj\Debug\net7.0\RickAndMorty.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\obj\Debug\net7.0\RickAndMorty.Server.RazorAssemblyInfo.cache
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\obj\Debug\net7.0\RickAndMorty.Server.RazorAssemblyInfo.cs
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\bin\Debug\net7.0\RickAndMorty.Client.staticwebassets.runtime.json
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\bin\Debug\net7.0\appsettings.json
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\bin\Debug\net7.0\RickAndMorty.Server.staticwebassets.runtime.json
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\bin\Debug\net7.0\RickAndMorty.Server.exe
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\bin\Debug\net7.0\RickAndMorty.Server.deps.json
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\bin\Debug\net7.0\RickAndMorty.Server.runtimeconfig.json
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\bin\Debug\net7.0\RickAndMorty.Server.dll
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\bin\Debug\net7.0\RickAndMorty.Server.pdb
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\bin\Debug\net7.0\Microsoft.JSInterop.dll
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\bin\Debug\net7.0\System.Net.Http.Json.dll
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\bin\Debug\net7.0\RickAndMorty.Client.dll
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\bin\Debug\net7.0\RickAndMorty.Shared.dll
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\bin\Debug\net7.0\RickAndMorty.Client.pdb
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\bin\Debug\net7.0\RickAndMorty.Shared.pdb
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\obj\Debug\net7.0\staticwebassets\msbuild.RickAndMorty.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.RickAndMorty.Server.props
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RickAndMorty.Server.props
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RickAndMorty.Server.props
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\obj\Debug\net7.0\scopedcss\bundle\RickAndMorty.Server.styles.css
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\obj\Debug\net7.0\RickAndM.41B05C27.Up2Date
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\obj\Debug\net7.0\RickAndMorty.Server.dll
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\obj\Debug\net7.0\refint\RickAndMorty.Server.dll
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\obj\Debug\net7.0\RickAndMorty.Server.pdb
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\obj\Debug\net7.0\RickAndMorty.Server.genruntimeconfig.cache
+C:\Users\MALCRIADA123\source\repos\RickAndMorty\Server\obj\Debug\net7.0\ref\RickAndMorty.Server.dll
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\bin\Debug\net7.0\appsettings.json
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\bin\Debug\net7.0\RickAndMorty.Client.staticwebassets.runtime.json
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\bin\Debug\net7.0\RickAndMorty.Client.staticwebassets.endpoints.json
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\bin\Debug\net7.0\RickAndMorty.Server.staticwebassets.runtime.json
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\bin\Debug\net7.0\RickAndMorty.Server.staticwebassets.endpoints.json
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\bin\Debug\net7.0\RickAndMorty.Server.exe
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\bin\Debug\net7.0\RickAndMorty.Server.deps.json
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\bin\Debug\net7.0\RickAndMorty.Server.runtimeconfig.json
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\bin\Debug\net7.0\RickAndMorty.Server.dll
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\bin\Debug\net7.0\RickAndMorty.Server.pdb
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\bin\Debug\net7.0\Microsoft.JSInterop.dll
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\bin\Debug\net7.0\System.Net.Http.Json.dll
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\bin\Debug\net7.0\RickAndMorty.Client.dll
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\bin\Debug\net7.0\RickAndMorty.Shared.dll
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\bin\Debug\net7.0\RickAndMorty.Client.pdb
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\bin\Debug\net7.0\RickAndMorty.Shared.pdb
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\obj\Debug\net7.0\RickAndMorty.Server.csproj.AssemblyReference.cache
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\obj\Debug\net7.0\RickAndMorty.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\obj\Debug\net7.0\RickAndMorty.Server.AssemblyInfoInputs.cache
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\obj\Debug\net7.0\RickAndMorty.Server.AssemblyInfo.cs
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\obj\Debug\net7.0\RickAndMorty.Server.csproj.CoreCompileInputs.cache
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\obj\Debug\net7.0\RickAndMorty.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\obj\Debug\net7.0\RickAndMorty.Server.RazorAssemblyInfo.cache
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\obj\Debug\net7.0\RickAndMorty.Server.RazorAssemblyInfo.cs
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\obj\Debug\net7.0\scopedcss\bundle\RickAndMorty.Server.styles.css
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\obj\Debug\net7.0\staticwebassets\msbuild.RickAndMorty.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\obj\Debug\net7.0\staticwebassets\msbuild.RickAndMorty.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.RickAndMorty.Server.props
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RickAndMorty.Server.props
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RickAndMorty.Server.props
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\obj\Debug\net7.0\RickAndM.41B05C27.Up2Date
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\obj\Debug\net7.0\RickAndMorty.Server.dll
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\obj\Debug\net7.0\refint\RickAndMorty.Server.dll
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\obj\Debug\net7.0\RickAndMorty.Server.pdb
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\obj\Debug\net7.0\RickAndMorty.Server.genruntimeconfig.cache
+C:\Users\RAZER\Desktop\PrograProyects\RickAndMorty (2)\RickAndMorty (2)\RickAndMorty\Server\obj\Debug\net7.0\ref\RickAndMorty.Server.dll
